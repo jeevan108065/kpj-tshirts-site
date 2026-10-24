@@ -1,0 +1,19 @@
+{
+  "short_name": "KPJ Admin",
+  "name": "KPJ Garments — Admin Console",
+  "description": "Manage leads, quotes, orders, inventory, catalog and custom designs for KPJ Garments.",
+  "icons": [
+    {
+      "src": "/kpjLogo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "id": "/admin",
+  "start_url": "/admin",
+  "scope": "/admin",
+  "display": "standalone",
+  "theme_color": "#111111",
+  "background_color": "#111111",
+  "categories": ["business", "productivity"]
+}

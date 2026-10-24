@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /customize
+Disallow: /login
+Disallow: /account
+Disallow: /forgot-password
+Disallow: /reset-password
+
+Sitemap: https://garments.kpj.app/sitemap.xml
